@@ -9,9 +9,9 @@
 
 ## Minhas Redes
 - <a href="https://www.linkedin.com/in/sofiasimas/">
-  <img align="left" alt="Sofia Simas | Linkedin" width="24px" src="./img/linkedin.svg" />
+  <img align="left" alt="Sofia Simas | Linkedin" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/linkedin.svg" />
 </a>
 
 - <a href="https://www.behance.net/sofiasimas/">
-  <img align="left" alt="Sofia Simas | Behance" width="24px" src="./img/behance.svg" />
+  <img align="left" alt="Sofia Simas | Behance" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/behance.svg" />
 </a>
