@@ -8,7 +8,7 @@
 - 📖 Me aventurando com CSS, HTML, JavaScript, React e Firebase
 - 🐈 Apaixonada por animais 🖤
 
-## Minhas Redes
+## Minhas Redes <img src='https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif' width='50'>
 
 - <a href="https://www.linkedin.com/in/sofiasimas/">
   <img align="left" alt="Sofia Simas | Linkedin" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/linkedin.svg" />
@@ -19,4 +19,4 @@
 </a>
 
 
-from [SofiaSimas](https://github.com/SofiaSimas)<img src='https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif' width='40'>
+<img src='https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif' width='40'>from [SofiaSimas](https://github.com/SofiaSimas)
