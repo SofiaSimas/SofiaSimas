@@ -5,9 +5,6 @@
 
 - 🔭 Estudante de Front End da [laboratoria](https://www.laboratoria.la/br)
 - ✒️ Tecnóloga em Design Gráfico
-- <a href="https://www.behance.net/sofiasimas/">
-  <img align="left" alt="Sofia Simas | Behance" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/behance.svg" />
-  </a>
 - 📖 Me aventurando com CSS, HTML, JavaScript, React e Firebase
 - 🐈 Apaixonada por animais 🖤
 
