@@ -10,8 +10,9 @@
 
 ## Minhas Redes
 
-![Linkedin: Sofia Simas](https://img.shields.io/badge/-sofiasimas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiasimas/)
-[![Behance Sofia Simas](https://img.shields.io/github/followers/sofiasimas?label=follow&style=social)](https://www.behance.net/sofiasimas)
+<a href="https://www.linkedin.com/in/sofiasimas/">
+  <img align="left" alt="Sofia Simas | Linkedin" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/linkedin.svg" />
+</a>
 <a href="https://www.behance.net/sofiasimas/">
   <img align="left" alt="Sofia Simas | Behance" width="24px" src="https://raw.githubusercontent.com/SofiaSimas/SofiaSimas/master/img/behance.svg" />
 </a>
