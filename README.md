@@ -4,7 +4,7 @@
 
 
 - 🔭 Estudante de Front End da [laboratoria](https://www.laboratoria.la/br)
-- ✒️ Tecnóloga em Design Gráfico
+- ✒️ Tecnólogo em Design Gráfico
 - 📖 Me aventurando com CSS, HTML, JavaScript, React e Firebase
 - 🐈 Apaixonada por animais 🖤
 
