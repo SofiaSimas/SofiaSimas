@@ -2,10 +2,10 @@
 
 ![olar](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
 
-
-- 🔭 Estudante de Front End da [laboratoria](https://www.laboratoria.la/br)
+- 💻 Engenheira de Software Jr. pela [CI&T](https://br.ciandt.com/)
+- 🎓 Formada pela [laboratoria](https://www.laboratoria.la/br)
 - ✒️ Tecnólogo em Design Gráfico
-- 📖 Me aventurando com CSS, HTML, JavaScript, React e Firebase
+- 📖 Me aventurando com CSS, HTML, JavaScript, React, Firebase, Angular, C#, .NET
 - 🐈 Apaixonada por animais 🖤
 
 ## Minhas Redes <img src='https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif' width='50'>
